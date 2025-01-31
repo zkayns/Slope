@@ -7,7 +7,7 @@
 "asmCodeUrl": "slope_code.unityweb",
 "asmMemoryUrl": "slope_memory.unityweb",
 "asmFrameworkUrl": "slope_framework.unityweb",
-"TOTAL_MEMORY": 268435456,
+"TOTAL_MEMORY": 168435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
